@@ -1,0 +1,40 @@
+body {
+  background-color: #292D2E;
+  color: #fff;
+
+}
+
+.myinp {
+  margin-top: 20%;
+  display: inline-block;
+  border: 1px solid #E8ED61;
+  background: none;
+  border-radius: 7px;
+  padding: 5px;
+  color: #fff;
+
+
+}
+
+.container {
+  margin-top: 15%;
+}
+
+.col-6 {
+  background-color: #1F2324;
+  height: 250px;
+  border: 1px solid #E8ED61;
+  border-radius: 7px;
+
+}
+
+.col-6 input {
+  display: inline-block;
+}
+
+.forgot {
+  text-align: right;
+  text-decoration: none;
+  float: right;
+  margin-top: 10px;
+}
